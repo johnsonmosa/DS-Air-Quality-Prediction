@@ -24,7 +24,7 @@ Air pollution remains a global health and environmental threat, particularly in 
 
 - **Name:** Synthetic Air Quality Dataset  
 - **Type:** Tabular time-series  
-- **Records:** ~9,000+  
+- **Records:** ~720+  
 - **Features:** PM2.5, PM10, NO2, SO2, CO, O3, Temperature, Humidity, Wind Speed, Date  
 - **Target:** AQI (Air Quality Index)
 
